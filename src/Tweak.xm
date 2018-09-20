@@ -1,8 +1,6 @@
-#include "NCNotificationListCell.h"
-
-
 @interface NCNotificationListCell : NSObject
 	-(void)setPerformingSwipeHinting:(BOOL)arg1;
+	-(void)_executeClearAction;
 @end
 
 
