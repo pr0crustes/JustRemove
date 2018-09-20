@@ -1,0 +1,9 @@
+Package: me.pr0crustes.justremove
+Name: JustRemove
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Never again click on "clear" to remove a notification, just slide!
+Maintainer: pr0crustes
+Author: pr0crustes
+Section: Tweaks
